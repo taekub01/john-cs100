@@ -10,3 +10,13 @@ margin: 40px auto;
 background-color: white;
 padding: 50px;
 }
+.photo {
+text-align: center;
+}
+.info {
+width: 620px;
+margin: 40px auto 0 auto;
+}
+h1{
+    text-align: center;
+}
